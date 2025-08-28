@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Megan</h1>
-<h3 align="center">A student developer at Northcoders.</h3>
+<h3 align="center">A Junior Software Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=megs1104&label=Profile%20views&color=0e75b6&style=flat" alt="megs1104" /> </p>
