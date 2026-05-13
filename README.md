@@ -6,7 +6,11 @@
 
 - 🌱 I’m currently learning about **AWS and Cloud Computing**
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f2ea7774-9da3-4029-91f8-8bd35f67abfa" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<p align="center">
+  <a href="https://www.credly.com/badges/f2ea7774-9da3-4029-91f8-8bd35f67abfa/public_url">
+    <img src="https://images.credly.com/size/340x340/images/f2ea7774-9da3-4029-91f8-8bd35f67abfa/image.png" width="150"/>
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
