@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning about **AWS and Cloud Computing**
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f2ea7774-9da3-4029-91f8-8bd35f67abfa" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/megan-gilling-584370326/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/megan-gilling-584370326/" height="30" width="40" /></a>
